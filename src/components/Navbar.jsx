@@ -10,7 +10,7 @@ export const Navbar = ({menuOpen, setMenuOpen}) => {
         <div className="max-w-5xl mx-auto px-4">
             <div className="flex justify-between items-center h-16">
                 {""}
-                <a href="" className="font-mono text-xl font-bold text-white text-blur-500">nam chalta</a>
+                <a href="" className="font-mono text-xl font-bold text-blur-500 bg-gradient-to-r from-blue-500 to-cyan-400 bg-clip-text text-transparent leading-right">&lt;SJ/&gt;</a>
 
                 <div className="w-7 h-5 relative cursor-pointer z-40 md:hidden" onClick={() => setMenuOpen((prev) => !prev)}>
                     ☰
