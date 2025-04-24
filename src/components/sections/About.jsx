@@ -40,7 +40,7 @@ export const About = () => {
 
                     <div className="rounded-xl p-8 border-white/10 border hover:-translate-y-1 translate-all">
                         <p className="text-grey-300 mb-6">
-                        Hello! I’m Sarthak Jain, a Computer Science student with a strong foundation in programming, web development, and software fundamentals.
+                        Hello! I’m Sarthak Raut, a Computer Science student with a strong foundation in programming, web development, and software fundamentals.
                         Throughout my college years, I worked on many academic projects, and gained hands-on experience with tools like GitHub, Firebase, and front-end libraries. Now, I’m looking to kickstart my professional journey in the tech industry.
                         </p>
                         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
